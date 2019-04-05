@@ -1,0 +1,3 @@
+﻿  inheritance.cpp
+c:\users\dmitry\source\repos\inheritance\inheritance\inheritance.h(95): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  inheritance.vcxproj -> C:\Users\Dmitry\source\repos\inheritance\Debug\inheritance.exe
